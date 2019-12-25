@@ -1,0 +1,515 @@
+Watching for file changes with StatReloader
+/root/.virtaulenvs/newxq/lib/python3.6/site-packages/pymysql/cursors.py:170: Warning: (3135, "'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.")
+  result = self._query(query)
+/root/.virtaulenvs/newxq/lib/python3.6/site-packages/pymysql/cursors.py:170: Warning: (3090, "Changing sql mode 'NO_AUTO_CREATE_USER' is deprecated. It will be removed in a future release.")
+  result = self._query(query)
+[18/Oct/2019 20:22:31] "GET / HTTP/1.1" 200 5184
+Not Found: /favicon.ico
+[18/Oct/2019 20:22:33] "GET /favicon.ico HTTP/1.1" 404 6614
+[18/Oct/2019 20:37:54] "GET / HTTP/1.1" 200 5184
+[18/Oct/2019 20:38:47] "GET / HTTP/1.1" 200 5184
+[18/Oct/2019 20:38:57] "POST / HTTP/1.1" 200 5671
+[18/Oct/2019 20:39:09] "POST / HTTP/1.1" 200 5671
+[19/Oct/2019 17:39:16] "GET / HTTP/1.1" 200 5184
+Not Found: /favicon.ico
+[19/Oct/2019 17:39:18] "GET /favicon.ico HTTP/1.1" 404 6614
+[19/Oct/2019 17:39:27] "GET / HTTP/1.1" 200 5184
+[19/Oct/2019 17:40:10] "GET /autologin/2/20162163/7e18b33409044bd2856208b26ecc6028 HTTP/1.1" 302 0
+[19/Oct/2019 17:40:10] "GET / HTTP/1.1" 200 5184
+[19/Oct/2019 17:40:42] "GET / HTTP/1.1" 200 5184
+[23/Oct/2019 20:29:29] "GET / HTTP/1.1" 200 5184
+[23/Oct/2019 20:29:29] "GET /static/css/admin_css/bootstrap.min.css HTTP/1.1" 304 0
+[23/Oct/2019 20:29:29] "GET /static/css/admin_css/font-awesome.min.css HTTP/1.1" 304 0
+[23/Oct/2019 20:29:30] "GET /static/js/admin_js/jquery-2.0.3.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:30] "GET /static/css/admin_css/ace-rtl.min.css HTTP/1.1" 304 0
+[23/Oct/2019 20:29:30] "GET /static/css/admin_css/ace.min.css HTTP/1.1" 304 0
+[23/Oct/2019 20:29:30] "GET /static/js/admin_js/bootstrap.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:30] "GET /static/css/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[23/Oct/2019 20:29:31] "GET /favicon.ico HTTP/1.1" 404 6614
+[23/Oct/2019 20:29:49] "POST / HTTP/1.1" 302 0
+[23/Oct/2019 20:29:51] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 20:29:51] "GET /static/css/stu_css/bootstrap.min.css HTTP/1.1" 304 0
+[23/Oct/2019 20:29:51] "GET /static/css/mains/main.css HTTP/1.1" 304 0
+[23/Oct/2019 20:29:51] "GET /static/css/stu_css/me.css HTTP/1.1" 304 0
+[23/Oct/2019 20:29:51] "GET /static/css/stu_css/datepicker3.css HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/js/stu_js/echarts.common.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/images/icon.png HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/images/f4.jpg HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/js/stu_js/bootstrap.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/js/stu_js/chart.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/js/stu_js/chart-data.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/js/stu_js/easypiechart.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/js/stu_js/easypiechart-data.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:52] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:29:52] "GET /static/js/stu_js/bootstrap-datepicker.js HTTP/1.1" 304 0
+[23/Oct/2019 20:29:53] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:30:02] "GET /inst/ HTTP/1.1" 200 28312
+[23/Oct/2019 20:30:02] "GET /static/css/stu_css/bootstrap-table.css HTTP/1.1" 304 0
+[23/Oct/2019 20:30:02] "GET /static/js/stu_js/bootstrap-table.js HTTP/1.1" 304 0
+[23/Oct/2019 20:30:03] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+Not Found: /inst/tables/data2.json
+[23/Oct/2019 20:30:03] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6683
+[23/Oct/2019 20:30:03] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:30:56] "GET /autologin/2/20162056/2d936867c1e84bebae67763988b174a2 HTTP/1.1" 302 0
+[23/Oct/2019 20:30:58] "GET /stcred/ HTTP/1.1" 200 33879
+[23/Oct/2019 20:30:59] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[23/Oct/2019 20:30:59] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:30:59] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:31:17] "GET /autologin/3/20162056/e4656cf045964a28bf0dbe4041893466 HTTP/1.1" 302 0
+[23/Oct/2019 20:31:18] "GET /course/ HTTP/1.1" 200 22039
+[23/Oct/2019 20:31:19] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+Not Found: /course/tables/data2.json
+[23/Oct/2019 20:31:19] "GET /course/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6689
+[23/Oct/2019 20:31:19] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+Not Found: /course/tables/data2.json
+[23/Oct/2019 20:31:19] "GET /course/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6689
+[23/Oct/2019 20:44:01] "GET /autologin/1/20162056/c756b7645c32458d85c0057930d2b8b6 HTTP/1.1" 302 0
+[23/Oct/2019 20:44:03] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 20:44:03] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:44:04] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:45:56] "GET /logout/ HTTP/1.1" 302 0
+[23/Oct/2019 20:45:56] "GET / HTTP/1.1" 200 5184
+[23/Oct/2019 20:46:12] "POST / HTTP/1.1" 302 0
+[23/Oct/2019 20:46:14] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 20:46:14] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:46:14] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:47:32] "GET /inst/ HTTP/1.1" 200 28312
+[23/Oct/2019 20:47:33] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+Not Found: /inst/tables/data2.json
+[23/Oct/2019 20:47:33] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6683
+[23/Oct/2019 20:47:33] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:47:42] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 20:47:43] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:47:43] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:48:43] "GET /logout/ HTTP/1.1" 302 0
+[23/Oct/2019 20:48:43] "GET / HTTP/1.1" 200 5184
+[23/Oct/2019 20:50:04] "POST / HTTP/1.1" 302 0
+[23/Oct/2019 20:50:06] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 20:50:07] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:50:07] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:51:06] "GET /inst/ HTTP/1.1" 200 28312
+[23/Oct/2019 20:51:06] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+Not Found: /inst/tables/data2.json
+[23/Oct/2019 20:51:07] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6683
+[23/Oct/2019 20:51:07] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:51:14] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 20:51:14] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:51:15] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:51:27] "POST /AboutTc/ HTTP/1.1" 200 491
+[23/Oct/2019 20:51:39] "GET /static/css/stu_css/bootstrap.css HTTP/1.1" 304 0
+[23/Oct/2019 20:51:39] "GET /static/css/stu_css/stydy.css HTTP/1.1" 304 0
+[23/Oct/2019 20:51:39] "GET /static/css/stu_css/nprogress.css HTTP/1.1" 304 0
+[23/Oct/2019 20:51:39] "GET /static/js/stu_js/nprogress.js HTTP/1.1" 304 0
+[23/Oct/2019 20:51:39] "GET /static/css/stu_css/font-awesome.min.css HTTP/1.1" 304 0
+[23/Oct/2019 20:51:39] "GET /static/js/stu_js/jquery.lazyload.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:51:39] "GET /study/ HTTP/1.1" 200 90071
+[23/Oct/2019 20:51:39] "GET /static/images/xq.png HTTP/1.1" 304 0
+[23/Oct/2019 20:51:40] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:51:40] "GET /static/js/stu_js/jquery.ias.js HTTP/1.1" 304 0
+[23/Oct/2019 20:51:40] "GET /static/js/stu_js/stydy.js HTTP/1.1" 304 0
+[23/Oct/2019 20:51:40] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:51:40] "GET /static/images/favicon.ico HTTP/1.1" 404 1706
+[23/Oct/2019 20:51:57] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 20:51:57] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:51:57] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:52:19] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:52:19] "GET /study/ HTTP/1.1" 200 90071
+[23/Oct/2019 20:52:19] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:52:28] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 20:52:29] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:52:29] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:52:42] "GET /logout/ HTTP/1.1" 302 0
+[23/Oct/2019 20:52:43] "GET / HTTP/1.1" 200 5184
+[23/Oct/2019 20:52:56] "POST / HTTP/1.1" 302 0
+[23/Oct/2019 20:52:58] "GET /admindex/ HTTP/1.1" 200 28098
+[23/Oct/2019 20:52:58] "GET /static/css/admin_css/font/font-awesome.min.css HTTP/1.1" 404 1769
+[23/Oct/2019 20:52:58] "GET /static/css/admin_css/ace-skins.min.css HTTP/1.1" 304 0
+[23/Oct/2019 20:52:58] "GET /static/js/admin_js/echarts.common.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:58] "GET /static/js/admin_js/typeahead-bs2.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:58] "GET /static/js/admin_js/ace-extra.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:58] "GET /static/avatars/user.jpg HTTP/1.1" 304 0
+[23/Oct/2019 20:52:58] "GET /static/js/admin_js/excanvas.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/jquery-ui-1.10.3.custom.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/jquery.slimscroll.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/jquery.ui.touch-punch.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/jquery.easy-pie-chart.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/jquery.sparkline.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/flot/jquery.flot.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/flot/jquery.flot.pie.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/ace.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:52:59] "GET /static/js/admin_js/ace-elements.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:53:00] "GET /static/js/admin_js/flot/jquery.flot.resize.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:53:44] "POST /index/ HTTP/1.1" 200 117
+[23/Oct/2019 20:54:08] "GET /st_like/ HTTP/1.1" 200 16024
+[23/Oct/2019 20:54:30] "GET /warm/ HTTP/1.1" 200 20393
+[23/Oct/2019 20:54:30] "GET /static/js/admin_js/jquery.min.js HTTP/1.1" 404 1727
+[23/Oct/2019 20:54:30] "GET /static/js/admin_js/jquery.dataTables.bootstrap.js HTTP/1.1" 304 0
+[23/Oct/2019 20:54:30] "GET /static/js/admin_js/jquery.dataTables.min.js HTTP/1.1" 304 0
+[23/Oct/2019 20:54:45] "GET /warm_detail/20162057/ HTTP/1.1" 200 12823
+[23/Oct/2019 20:54:56] "GET /admcred/ HTTP/1.1" 200 211376
+[23/Oct/2019 20:55:02] "GET /admcred/ HTTP/1.1" 200 211376
+[23/Oct/2019 20:55:17] "GET /hplan/ HTTP/1.1" 200 17580
+[23/Oct/2019 20:55:18] "GET /static/font-awesome.min.css HTTP/1.1" 404 1712
+[23/Oct/2019 20:55:39] "GET /hplan/ HTTP/1.1" 200 17580
+[23/Oct/2019 20:55:39] "GET /static/font-awesome.min.css HTTP/1.1" 404 1712
+[23/Oct/2019 20:55:43] "GET /adduser/ HTTP/1.1" 200 12443
+[23/Oct/2019 20:55:57] "GET /assit/ HTTP/1.1" 200 27735
+[23/Oct/2019 20:56:12] "POST /assitch/ HTTP/1.1" 200 2
+[23/Oct/2019 20:56:13] "GET /assit/ HTTP/1.1" 200 30925
+[23/Oct/2019 20:56:17] "POST /assitch/ HTTP/1.1" 200 2
+[23/Oct/2019 20:56:22] "POST /assitch/ HTTP/1.1" 200 2
+[23/Oct/2019 20:56:23] "GET /assit/ HTTP/1.1" 200 30925
+[23/Oct/2019 20:56:26] "POST /assitch/ HTTP/1.1" 200 2
+[23/Oct/2019 20:56:30] "GET /tj/ HTTP/1.1" 200 50105
+[23/Oct/2019 20:56:45] "POST /tjcollage/ HTTP/1.1" 200 882
+[23/Oct/2019 20:57:06] "POST /tjcollage/ HTTP/1.1" 200 206
+[23/Oct/2019 20:57:11] "GET /associate/ HTTP/1.1" 200 34549
+Not Found: /associate/assets/avatars/user.jpg
+[23/Oct/2019 20:57:11] "GET /associate/assets/avatars/user.jpg HTTP/1.1" 404 6680
+[23/Oct/2019 20:58:33] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 20:58:34] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 20:59:36] "POST /tjcollage/ HTTP/1.1" 200 564
+[23/Oct/2019 20:59:38] "POST /tjcollage/ HTTP/1.1" 200 194
+[23/Oct/2019 20:59:40] "POST /tjcollage/ HTTP/1.1" 200 564
+Not Found: /others/login.html
+[23/Oct/2019 20:59:40] "GET /others/login.html HTTP/1.1" 404 6632
+[23/Oct/2019 20:59:49] "GET / HTTP/1.1" 200 5184
+[23/Oct/2019 21:00:03] "POST / HTTP/1.1" 302 0
+[23/Oct/2019 21:00:05] "GET /main/ HTTP/1.1" 200 40306
+[23/Oct/2019 21:00:06] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 21:00:06] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[23/Oct/2019 21:07:54] "GET / HTTP/1.1" 200 5184
+[23/Oct/2019 21:08:24] "POST / HTTP/1.1" 302 0
+[23/Oct/2019 21:08:31] "GET /admindex/ HTTP/1.1" 200 28098
+[23/Oct/2019 21:08:31] "GET /static/css/admin_css/font/font-awesome.min.css HTTP/1.1" 404 1769
+[23/Oct/2019 21:08:36] "GET /tj/ HTTP/1.1" 200 50105
+[23/Oct/2019 21:08:41] "POST /tjcollage/ HTTP/1.1" 200 194
+[23/Oct/2019 21:08:43] "GET /tj/ HTTP/1.1" 200 50105
+[23/Oct/2019 21:09:03] "POST /tjcollage/ HTTP/1.1" 200 882
+[23/Oct/2019 21:09:21] "POST /tjcollage/ HTTP/1.1" 200 206
+[23/Oct/2019 21:09:26] "GET /associate/ HTTP/1.1" 200 34549
+Not Found: /associate/assets/avatars/user.jpg
+[23/Oct/2019 21:09:26] "GET /associate/assets/avatars/user.jpg HTTP/1.1" 404 6680
+[23/Oct/2019 21:09:43] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[23/Oct/2019 21:09:44] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:31:35] "GET / HTTP/1.1" 200 5184
+[27/Oct/2019 14:31:35] "GET /static/css/admin_css/font-awesome.min.css HTTP/1.1" 200 22119
+[27/Oct/2019 14:31:35] "GET /static/css/admin_css/ace-rtl.min.css HTTP/1.1" 200 36873
+[27/Oct/2019 14:31:35] "GET /static/js/admin_js/bootstrap.min.js HTTP/1.1" 200 27726
+[27/Oct/2019 14:31:35] "GET /static/css/admin_css/bootstrap.min.css HTTP/1.1" 200 96273
+[27/Oct/2019 14:31:35] "GET /static/js/admin_js/jquery-2.0.3.min.js HTTP/1.1" 200 83612
+[27/Oct/2019 14:31:36] "GET /static/css/admin_css/ace.min.css HTTP/1.1" 200 271482
+Not Found: /assets/js/jquery.mobile.custom.min.js
+[27/Oct/2019 14:31:36] "GET /assets/js/jquery.mobile.custom.min.js HTTP/1.1" 404 6692
+[27/Oct/2019 14:31:36] "GET /static/css/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 81284
+Not Found: /favicon.ico
+[27/Oct/2019 14:31:37] "GET /favicon.ico HTTP/1.1" 404 6614
+[27/Oct/2019 14:31:48] "POST / HTTP/1.1" 302 0
+[27/Oct/2019 14:31:50] "GET /main/ HTTP/1.1" 200 40306
+[27/Oct/2019 14:31:50] "GET /static/css/stu_css/bootstrap.min.css HTTP/1.1" 200 109518
+[27/Oct/2019 14:31:50] "GET /static/css/stu_css/datepicker3.css HTTP/1.1" 200 33772
+[27/Oct/2019 14:31:50] "GET /static/css/mains/main.css HTTP/1.1" 200 41904
+[27/Oct/2019 14:31:50] "GET /static/css/stu_css/me.css HTTP/1.1" 200 16045
+[27/Oct/2019 14:31:50] "GET /static/images/icon.png HTTP/1.1" 200 3561
+[27/Oct/2019 14:31:50] "GET /static/js/stu_js/bootstrap.min.js HTTP/1.1" 200 31819
+[27/Oct/2019 14:31:50] "GET /static/js/stu_js/chart.min.js HTTP/1.1" 200 50937
+[27/Oct/2019 14:31:50] "GET /static/js/stu_js/chart-data.js HTTP/1.1" 200 3472
+[27/Oct/2019 14:31:50] "GET /static/js/stu_js/echarts.common.min.js HTTP/1.1" 200 472614
+[27/Oct/2019 14:31:50] "GET /static/js/stu_js/easypiechart.js HTTP/1.1" 200 9066
+[27/Oct/2019 14:31:50] "GET /static/js/stu_js/easypiechart-data.js HTTP/1.1" 200 534
+[27/Oct/2019 14:31:50] "GET /static/js/stu_js/bootstrap-datepicker.js HTTP/1.1" 200 46822
+[27/Oct/2019 14:31:51] "GET /static/images/f4.jpg HTTP/1.1" 200 1934
+[27/Oct/2019 14:31:51] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:31:51] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:32:31] "GET / HTTP/1.1" 200 5184
+[27/Oct/2019 14:32:31] "GET /static/css/admin_css/font-awesome.min.css HTTP/1.1" 304 0
+[27/Oct/2019 14:32:31] "GET /static/css/admin_css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Oct/2019 14:32:31] "GET /static/js/admin_js/jquery-2.0.3.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:31] "GET /static/js/admin_js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:31] "GET /static/css/admin_css/ace.min.css HTTP/1.1" 304 0
+[27/Oct/2019 14:32:31] "GET /static/css/admin_css/ace-rtl.min.css HTTP/1.1" 304 0
+[27/Oct/2019 14:32:32] "GET /static/css/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[27/Oct/2019 14:32:32] "GET /favicon.ico HTTP/1.1" 404 6614
+[27/Oct/2019 14:32:35] "POST / HTTP/1.1" 302 0
+[27/Oct/2019 14:32:36] "GET /main/ HTTP/1.1" 200 40306
+[27/Oct/2019 14:32:37] "GET /static/css/stu_css/datepicker3.css HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/css/mains/main.css HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/js/stu_js/echarts.common.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/css/stu_css/me.css HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/css/stu_css/bootstrap.min.css HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/images/icon.png HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/js/stu_js/bootstrap.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/js/stu_js/chart-data.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/js/stu_js/chart.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/js/stu_js/easypiechart-data.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/js/stu_js/easypiechart.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/js/stu_js/bootstrap-datepicker.js HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/images/f4.jpg HTTP/1.1" 304 0
+[27/Oct/2019 14:32:37] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:32:37] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+Not Found: /hp/
+[27/Oct/2019 14:33:04] "GET /hp/ HTTP/1.1" 404 6590
+[27/Oct/2019 14:37:07] "GET /main/ HTTP/1.1" 200 40306
+[27/Oct/2019 14:37:08] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:37:08] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:37:41] "GET /logout/ HTTP/1.1" 302 0
+[27/Oct/2019 14:37:41] "GET / HTTP/1.1" 200 5184
+[27/Oct/2019 14:37:44] "POST / HTTP/1.1" 302 0
+[27/Oct/2019 14:37:46] "GET /main/ HTTP/1.1" 200 40306
+[27/Oct/2019 14:37:46] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:37:46] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:40:09] "GET /course/ HTTP/1.1" 200 22039
+[27/Oct/2019 14:40:09] "GET /static/js/stu_js/bootstrap-table.js HTTP/1.1" 304 0
+[27/Oct/2019 14:40:09] "GET /static/css/stu_css/bootstrap-table.css HTTP/1.1" 304 0
+[27/Oct/2019 14:40:09] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:40:09] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+Not Found: /course/tables/data2.json
+[27/Oct/2019 14:40:09] "GET /course/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6689
+Not Found: /course/tables/data2.json
+[27/Oct/2019 14:40:09] "GET /course/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6689
+[27/Oct/2019 14:40:12] "GET /stcred/ HTTP/1.1" 200 33879
+[27/Oct/2019 14:40:12] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[27/Oct/2019 14:40:12] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:40:12] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:41:49] "POST /AboutTc/ HTTP/1.1" 200 453
+[27/Oct/2019 14:41:50] "POST /rechoice/ HTTP/1.1" 200 27
+[27/Oct/2019 14:41:53] "GET /main/ HTTP/1.1" 200 39580
+[27/Oct/2019 14:41:54] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:41:54] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:44:33] "GET /stcred/ HTTP/1.1" 200 33879
+[27/Oct/2019 14:44:33] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[27/Oct/2019 14:44:33] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:44:34] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:45:29] "GET /stcred/ HTTP/1.1" 200 33879
+[27/Oct/2019 14:45:29] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[27/Oct/2019 14:45:29] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:45:29] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:45:32] "GET /main/ HTTP/1.1" 200 39580
+[27/Oct/2019 14:45:32] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:45:32] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:45:58] "GET /stcred/ HTTP/1.1" 200 33879
+[27/Oct/2019 14:45:58] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[27/Oct/2019 14:45:58] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:45:58] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[27/Oct/2019 14:46:51] "GET /logout/ HTTP/1.1" 302 0
+[27/Oct/2019 14:46:52] "GET / HTTP/1.1" 200 5184
+[27/Oct/2019 14:47:00] "POST / HTTP/1.1" 302 0
+[27/Oct/2019 14:47:01] "GET /admindex/ HTTP/1.1" 200 28084
+[27/Oct/2019 14:47:01] "GET /static/css/admin_css/ace-skins.min.css HTTP/1.1" 304 0
+[27/Oct/2019 14:47:01] "GET /static/css/admin_css/font/font-awesome.min.css HTTP/1.1" 404 1769
+[27/Oct/2019 14:47:01] "GET /static/js/admin_js/echarts.common.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:01] "GET /static/js/admin_js/ace-extra.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:01] "GET /static/avatars/user.jpg HTTP/1.1" 304 0
+[27/Oct/2019 14:47:01] "GET /static/js/admin_js/typeahead-bs2.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/excanvas.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/jquery-ui-1.10.3.custom.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/jquery.easy-pie-chart.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/jquery.slimscroll.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/jquery.ui.touch-punch.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/jquery.sparkline.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/flot/jquery.flot.pie.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/flot/jquery.flot.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/flot/jquery.flot.resize.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/ace.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:02] "GET /static/js/admin_js/ace-elements.min.js HTTP/1.1" 304 0
+[27/Oct/2019 14:47:09] "GET /associate/ HTTP/1.1" 200 34549
+Not Found: /associate/assets/avatars/user.jpg
+[27/Oct/2019 14:47:10] "GET /associate/assets/avatars/user.jpg HTTP/1.1" 404 6680
+[27/Oct/2019 14:47:21] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[27/Oct/2019 14:47:21] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[04/Dec/2019 15:25:07] "GET / HTTP/1.1" 200 5184
+[04/Dec/2019 15:25:07] "GET /static/css/admin_css/font-awesome.min.css HTTP/1.1" 200 22119
+[04/Dec/2019 15:25:07] "GET /static/css/admin_css/ace-rtl.min.css HTTP/1.1" 200 36873
+[04/Dec/2019 15:25:07] "GET /static/js/admin_js/bootstrap.min.js HTTP/1.1" 200 27726
+[04/Dec/2019 15:25:07] "GET /static/css/admin_css/bootstrap.min.css HTTP/1.1" 200 96273
+[04/Dec/2019 15:25:07] "GET /static/js/admin_js/jquery-2.0.3.min.js HTTP/1.1" 200 83612
+[04/Dec/2019 15:25:07] "GET /static/css/admin_css/ace.min.css HTTP/1.1" 200 271482
+Not Found: /assets/js/jquery.mobile.custom.min.js
+[04/Dec/2019 15:25:08] "GET /assets/js/jquery.mobile.custom.min.js HTTP/1.1" 404 6692
+[04/Dec/2019 15:25:08] "GET /static/css/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 81284
+Not Found: /favicon.ico
+[04/Dec/2019 15:25:08] "GET /favicon.ico HTTP/1.1" 404 6614
+[04/Dec/2019 15:25:13] "POST / HTTP/1.1" 302 0
+[04/Dec/2019 15:25:14] "GET /main/ HTTP/1.1" 200 39580
+[04/Dec/2019 15:25:14] "GET /static/css/stu_css/datepicker3.css HTTP/1.1" 200 33772
+[04/Dec/2019 15:25:14] "GET /static/css/stu_css/me.css HTTP/1.1" 200 16045
+[04/Dec/2019 15:25:14] "GET /static/css/mains/main.css HTTP/1.1" 200 41904
+[04/Dec/2019 15:25:15] "GET /static/images/icon.png HTTP/1.1" 200 3561
+[04/Dec/2019 15:25:15] "GET /static/css/stu_css/bootstrap.min.css HTTP/1.1" 200 109518
+[04/Dec/2019 15:25:15] "GET /static/js/stu_js/bootstrap.min.js HTTP/1.1" 200 31819
+[04/Dec/2019 15:25:15] "GET /static/js/stu_js/chart.min.js HTTP/1.1" 200 50937
+[04/Dec/2019 15:25:15] "GET /static/js/stu_js/chart-data.js HTTP/1.1" 200 3472
+[04/Dec/2019 15:25:15] "GET /static/js/stu_js/easypiechart.js HTTP/1.1" 200 9066
+[04/Dec/2019 15:25:15] "GET /static/js/stu_js/easypiechart-data.js HTTP/1.1" 200 534
+[04/Dec/2019 15:25:15] "GET /static/images/f4.jpg HTTP/1.1" 200 1934
+[04/Dec/2019 15:25:15] "GET /static/js/stu_js/bootstrap-datepicker.js HTTP/1.1" 200 46822
+[04/Dec/2019 15:25:15] "GET /static/js/stu_js/echarts.common.min.js HTTP/1.1" 200 472614
+[04/Dec/2019 15:25:15] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[04/Dec/2019 15:25:16] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[04/Dec/2019 15:25:42] "GET / HTTP/1.1" 200 5184
+Not Found: /assets/js/jquery.mobile.custom.min.js
+[04/Dec/2019 15:25:42] "GET /assets/js/jquery.mobile.custom.min.js HTTP/1.1" 404 6692
+[04/Dec/2019 15:26:00] "GET / HTTP/1.1" 200 5184
+Not Found: /assets/js/jquery.mobile.custom.min.js
+[04/Dec/2019 15:26:01] "GET /assets/js/jquery.mobile.custom.min.js HTTP/1.1" 404 6692
+Not Found: /favicon.ico
+[04/Dec/2019 15:26:01] "GET /favicon.ico HTTP/1.1" 404 6614
+[04/Dec/2019 15:26:03] "POST / HTTP/1.1" 302 0
+[04/Dec/2019 15:26:04] "GET /main/ HTTP/1.1" 200 39580
+[04/Dec/2019 15:26:05] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[04/Dec/2019 15:26:05] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[04/Dec/2019 15:26:11] "GET / HTTP/1.1" 200 5184
+Not Found: /assets/js/jquery.mobile.custom.min.js
+[04/Dec/2019 15:26:11] "GET /assets/js/jquery.mobile.custom.min.js HTTP/1.1" 404 6692
+[04/Dec/2019 15:26:14] "POST / HTTP/1.1" 302 0
+[04/Dec/2019 15:26:15] "GET /main/ HTTP/1.1" 200 39580
+[04/Dec/2019 15:26:15] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[04/Dec/2019 15:26:15] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[04/Dec/2019 15:28:49] "GET /autologin/2/20162056/0f58597244104d4dafe0b6febf8c3e3a HTTP/1.1" 302 0
+[04/Dec/2019 15:28:50] "GET /stcred/ HTTP/1.1" 200 33879
+[04/Dec/2019 15:28:50] "GET /static/css/stu_css/bootstrap-table.css HTTP/1.1" 200 4355
+[04/Dec/2019 15:28:51] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[04/Dec/2019 15:28:51] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[04/Dec/2019 15:28:51] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+Not Found: /favicon.ico
+[04/Dec/2019 15:28:51] "GET /favicon.ico HTTP/1.1" 404 6614
+[04/Dec/2019 15:28:56] "GET /main/ HTTP/1.1" 200 39580
+[04/Dec/2019 15:28:56] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[04/Dec/2019 15:28:56] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+Not Found: /favicon.ico
+[04/Dec/2019 15:28:56] "GET /favicon.ico HTTP/1.1" 404 6614
+[05/Dec/2019 21:07:52] "GET / HTTP/1.1" 200 5184
+[05/Dec/2019 21:07:53] "GET /static/css/admin_css/font-awesome.min.css HTTP/1.1" 200 22119
+[05/Dec/2019 21:07:53] "GET /static/js/admin_js/jquery-2.0.3.min.js HTTP/1.1" 200 83612
+[05/Dec/2019 21:07:53] "GET /static/css/admin_css/bootstrap.min.css HTTP/1.1" 200 96273
+[05/Dec/2019 21:07:53] "GET /static/css/admin_css/ace-rtl.min.css HTTP/1.1" 200 36873
+[05/Dec/2019 21:07:53] "GET /static/js/admin_js/bootstrap.min.js HTTP/1.1" 200 27726
+[05/Dec/2019 21:07:54] "GET /static/css/admin_css/ace.min.css HTTP/1.1" 200 271482
+[05/Dec/2019 21:07:55] "GET /static/css/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 81284
+Not Found: /favicon.ico
+[05/Dec/2019 21:07:56] "GET /favicon.ico HTTP/1.1" 404 6614
+[05/Dec/2019 21:07:59] "POST / HTTP/1.1" 302 0
+[05/Dec/2019 21:08:00] "GET /main/ HTTP/1.1" 200 39580
+[05/Dec/2019 21:08:00] "GET /static/css/stu_css/datepicker3.css HTTP/1.1" 200 33772
+[05/Dec/2019 21:08:00] "GET /static/css/mains/main.css HTTP/1.1" 200 41904
+[05/Dec/2019 21:08:00] "GET /static/css/stu_css/me.css HTTP/1.1" 200 16045
+[05/Dec/2019 21:08:00] "GET /static/images/icon.png HTTP/1.1" 200 3561
+[05/Dec/2019 21:08:00] "GET /static/css/stu_css/bootstrap.min.css HTTP/1.1" 200 109518
+[05/Dec/2019 21:08:01] "GET /static/js/stu_js/chart.min.js HTTP/1.1" 200 50937
+[05/Dec/2019 21:08:01] "GET /static/js/stu_js/bootstrap.min.js HTTP/1.1" 200 31819
+[05/Dec/2019 21:08:01] "GET /static/js/stu_js/easypiechart-data.js HTTP/1.1" 200 534
+[05/Dec/2019 21:08:01] "GET /static/js/stu_js/easypiechart.js HTTP/1.1" 200 9066
+[05/Dec/2019 21:08:01] "GET /static/js/stu_js/chart-data.js HTTP/1.1" 200 3472
+[05/Dec/2019 21:08:01] "GET /static/js/stu_js/bootstrap-datepicker.js HTTP/1.1" 200 46822
+[05/Dec/2019 21:08:01] "GET /static/images/f4.jpg HTTP/1.1" 200 1934
+[05/Dec/2019 21:08:02] "GET /static/js/stu_js/echarts.common.min.js HTTP/1.1" 200 472614
+[05/Dec/2019 21:08:03] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:08:03] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:08:08] "GET /inst/ HTTP/1.1" 200 28259
+[05/Dec/2019 21:08:08] "GET /static/css/stu_css/bootstrap-table.css HTTP/1.1" 200 4355
+[05/Dec/2019 21:08:08] "GET /static/js/stu_js/bootstrap-table.js HTTP/1.1" 200 50492
+[05/Dec/2019 21:08:08] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+Not Found: /inst/tables/data2.json
+[05/Dec/2019 21:08:08] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:08:08] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6683
+[05/Dec/2019 21:08:27] "POST /ensuer/ HTTP/1.1" 200 27
+[05/Dec/2019 21:08:31] "GET /inst/ HTTP/1.1" 200 28088
+Not Found: /inst/tables/data2.json
+[05/Dec/2019 21:08:32] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6683
+[05/Dec/2019 21:08:32] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:08:32] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:08:43] "POST /ensuer/ HTTP/1.1" 200 27
+[05/Dec/2019 21:08:47] "GET /inst/ HTTP/1.1" 200 28312
+[05/Dec/2019 21:08:47] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+Not Found: /inst/tables/data2.json
+[05/Dec/2019 21:08:47] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6683
+[05/Dec/2019 21:08:47] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:09:02] "GET /static/css/stu_css/nprogress.css HTTP/1.1" 200 1175
+[05/Dec/2019 21:09:02] "GET /static/css/stu_css/font-awesome.min.css HTTP/1.1" 200 26824
+[05/Dec/2019 21:09:02] "GET /static/css/stu_css/stydy.css HTTP/1.1" 200 36240
+[05/Dec/2019 21:09:02] "GET /static/js/stu_js/nprogress.js HTTP/1.1" 200 4350
+[05/Dec/2019 21:09:02] "GET /study/ HTTP/1.1" 200 90071
+[05/Dec/2019 21:09:02] "GET /static/js/stu_js/jquery.lazyload.min.js HTTP/1.1" 200 3381
+[05/Dec/2019 21:09:02] "GET /static/images/xq.png HTTP/1.1" 200 40688
+[05/Dec/2019 21:09:02] "GET /static/css/stu_css/bootstrap.css HTTP/1.1" 200 131546
+[05/Dec/2019 21:09:02] "GET /static/js/stu_js/jquery.ias.js HTTP/1.1" 200 3986
+[05/Dec/2019 21:09:02] "GET /static/js/stu_js/stydy.js HTTP/1.1" 200 5468
+[05/Dec/2019 21:09:03] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:09:03] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:09:03] "GET /static/images/favicon.ico HTTP/1.1" 404 1706
+[05/Dec/2019 21:09:13] "GET /jobdetail/1 HTTP/1.1" 200 5755
+[05/Dec/2019 21:09:13] "GET /static/css/stu_css/shops.css HTTP/1.1" 200 949
+[05/Dec/2019 21:09:13] "GET /static/css/stu_css/base.css HTTP/1.1" 200 509
+[05/Dec/2019 21:09:13] "GET /static/js/stu_js/classie.js HTTP/1.1" 200 1835
+[05/Dec/2019 21:09:14] "GET /static/js/stu_js/uisearch.js HTTP/1.1" 200 6114
+[05/Dec/2019 21:09:14] "GET /static/css/images/social-sprit.png HTTP/1.1" 404 1733
+[05/Dec/2019 21:09:14] "GET /static/lib/bootstrap/js/stu_js/bootstrap.js HTTP/1.1" 404 1760
+[05/Dec/2019 21:09:14] "GET /static/lib/jquery/jquery.js HTTP/1.1" 404 1712
+[05/Dec/2019 21:09:14] "GET /static/lib/bootstrap/js/stu_js/bootstrap.js HTTP/1.1" 404 1760
+[05/Dec/2019 21:09:21] "GET /main/ HTTP/1.1" 200 40310
+[05/Dec/2019 21:09:21] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:09:21] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:09:48] "GET /inst/ HTTP/1.1" 200 28312
+Not Found: /inst/tables/data2.json
+[05/Dec/2019 21:09:48] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6683
+[05/Dec/2019 21:09:48] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:09:49] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:09:52] "GET /main/ HTTP/1.1" 200 40310
+[05/Dec/2019 21:09:52] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:09:52] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:10:24] "GET /stcred/ HTTP/1.1" 200 33879
+[05/Dec/2019 21:10:24] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[05/Dec/2019 21:10:24] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:10:24] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:10:46] "GET /course/ HTTP/1.1" 200 22039
+[05/Dec/2019 21:10:46] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+Not Found: /course/tables/data2.json
+[05/Dec/2019 21:10:46] "GET /course/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6689
+Not Found: /course/tables/data2.json
+[05/Dec/2019 21:10:47] "GET /course/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6689
+[05/Dec/2019 21:10:47] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:11:00] "GET /inst/ HTTP/1.1" 200 28312
+Not Found: /inst/tables/data2.json
+[05/Dec/2019 21:11:00] "GET /inst/tables/data2.json?limit=10&offset=0&order=asc HTTP/1.1" 404 6683
+[05/Dec/2019 21:11:00] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:11:00] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:35:56] "GET /autologin/2/20162056/b4ec9bfce6b147f084903b76c883d2e3 HTTP/1.1" 302 0
+[05/Dec/2019 21:35:58] "GET /stcred/ HTTP/1.1" 200 33879
+[05/Dec/2019 21:35:58] "GET /static/css/stu_css/ace1.min.css HTTP/1.1" 404 1724
+[05/Dec/2019 21:35:59] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:35:59] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:36:02] "GET /main/ HTTP/1.1" 200 40310
+[05/Dec/2019 21:36:02] "GET /static/css/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1781
+[05/Dec/2019 21:36:02] "GET /static/css/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1778
+[05/Dec/2019 21:38:38] "POST /stcreditaj/ HTTP/1.1" 200 432
+[05/Dec/2019 21:38:43] "POST /stcreditaj/ HTTP/1.1" 200 2
+[05/Dec/2019 21:38:46] "POST /stcreditaj/ HTTP/1.1" 200 432
+[05/Dec/2019 21:39:03] "POST /stcreditaj/ HTTP/1.1" 200 220
+Performing system checks...
+
+System check identified no issues (0 silenced).
+October 18, 2019 - 19:33:22
+Django version 2.2.2, using settings 'newxq.settings'
+Starting development server at http://[2001:da8:270:2018:f816:3eff:fe07:4a3]:443/
+Quit the server with CONTROL-C.
+Node.js
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Android', '语言基础\t机器学习\t框架\t神经网络\t并行计算\t', <HotJob: andriod工程师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>], ['区块链', '算法基础\t深度学习\t', <HotJob: 区块链媒体商务>]]
+Node.js
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Android', '语言基础\t机器学习\t框架\t神经网络\t并行计算\t', <HotJob: andriod工程师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>], ['区块链', '算法基础\t深度学习\t', <HotJob: 区块链媒体商务>]]
+Node.js
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Android', '语言基础\t机器学习\t框架\t神经网络\t并行计算\t', <HotJob: andriod工程师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>], ['区块链', '算法基础\t深度学习\t', <HotJob: 区块链媒体商务>]]
+<QuerySet [<LearnWarning: 退学预警>, <LearnWarning: 警示预警>, <LearnWarning: 降级预警>, <LearnWarning: 跟班修读>]>
+<QuerySet [<LearnWarning: 退学预警>, <LearnWarning: 警示预警>, <LearnWarning: 降级预警>, <LearnWarning: 跟班修读>]>
+<QuerySet [<LearnWarning: 退学预警>, <LearnWarning: 警示预警>, <LearnWarning: 降级预警>, <LearnWarning: 跟班修读>]>
+Android
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Node.js', '工具、语言\t开源框架与组件\t共识算法\t', <HotJob: nodejs架构师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>], ['区块链', '算法基础\t深度学习\t', <HotJob: 区块链媒体商务>]]
+区块链
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Android', '语言基础\t机器学习\t框架\t神经网络\t并行计算\t', <HotJob: andriod工程师>], ['Node.js', '工具、语言\t开源框架与组件\t共识算法\t', <HotJob: nodejs架构师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>]]
+Node.js
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Android', '语言基础\t机器学习\t框架\t神经网络\t并行计算\t', <HotJob: andriod工程师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>], ['区块链', '算法基础\t深度学习\t', <HotJob: 区块链媒体商务>]]
+Node.js
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Android', '语言基础\t机器学习\t框架\t神经网络\t并行计算\t', <HotJob: andriod工程师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>], ['区块链', '算法基础\t深度学习\t', <HotJob: 区块链媒体商务>]]
+Node.js
+[['WEB前端', '语言基础\t数据库\t数据仓库\t', <HotJob: 高级Web前端开发工程师>], ['Android', '语言基础\t机器学习\t框架\t神经网络\t并行计算\t', <HotJob: andriod工程师>], ['数据架构', '数据开发组件\t', <HotJob: 大数据架构师>], ['区块链', '算法基础\t深度学习\t', <HotJob: 区块链媒体商务>]]

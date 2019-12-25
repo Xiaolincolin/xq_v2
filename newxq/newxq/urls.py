@@ -100,7 +100,7 @@ urlpatterns = [
     url(r'^associate/$', AssociateView.as_view(), name='associate'),
 
     #助学到学情自动登录
-    url(r'^autologin/(\d+)/(\d+)/(\d+)$', csrf_exempt(AutoLogin.as_view()), name='autologin'),
+    url(r'^autologin/(\d+)/(\d+)/(.*)$', csrf_exempt(AutoLogin.as_view()), name='autologin'),
 
     #涉及技能
     url(r'^AboutTc/$', AboutTc.as_view(), name='AboutTc'),
